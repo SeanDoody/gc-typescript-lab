@@ -1,1 +1,1 @@
-# gc-typescript-lab-1
+# gc-typescript-lab
